@@ -1,0 +1,15 @@
+---
+ID: 192
+post_title: Confessions of a workaholic
+post_name: confessions-of-a-workaholic
+author: David
+post_date: 2007-09-07 20:04:22
+layout: post
+link: >
+  https://blog.davidchristiansen.com/2007/09/confessions-of-a-workaholic/
+published: true
+tags: [ ]
+categories:
+  - Development (General)
+---
+<p>Today is my last Friday...  </p><p><font face="Georgia"><img hspace="10" src="http://tbn0.google.com/images?q=tbn:JFx75TwF_YCdPM:http://msdn.microsoft.com/events/hero/images/bio-mwg-03.gif" align="right" border="0"></font>Well, It's just under a week to go before I pack my Microsoft throwing devices (MSDN and Channel9 Guys), my box of Branflakes and my Coffee machine under my arm and walk out the door after 8 short years and 8 shorter months.  </p><p>I am taking a break before I fully enter the 'identity metaverse' but it would appear that I am not going to have much of a break as it would appear that I feel the urge to metaphorically change to fifth gear before starting my new job. I am going to be spending the next couple of weeks (when not changing my son's awfully ripe nappies) taking stock on what I want to get out of the next 5 years. My new job is going to be very exciting but none the less very challenging.  </p><p>I've been following for the last months or so what some are doing to 'make themselves a better developer' and think it's time that I did something along the same lines. As of next Friday I will have the first 'free' time I’ve had since Ryan was born and I plan to <a href="http://www.davidchristiansen.com/2007/09/03/InMyAmazonShoppingBaskettryingToBeABetterDeveloperperson.aspx">immerse myself in books</a> on Management style, OpenID, Cardspace and Identity in general.  </p><p>As a side, I’m half way through <a href="http://en.wikipedia.org/wiki/Peopleware">PeopleWare by Tom DeMarco and Timothy Lister</a> (I appear to be the only one who hasn’t read it) and it would seem that I have fallen deep into one of their classifications. <b>Hello,</b> <b>My name is David and I am a workaholic. </b>I am one who has reached the end of a major project and his tether. The project rolled out very successfully due to in no small part the 60hr weeks that I have pulled pretty much since February. I love what I do with a passion, every aspect of it, but I have not really managed my work/life balance very well recently – and indeed there is a similar pattern over my professional career. I can relate very closely to what Tom and Timothy say in their book about demands, quality, productivity and turnover – kinda case in point is that I am now leaving a job that I loved.  </p><p>So, I now recognise that the way I work is bad – or do I – I’ve just spent the last couple of paragraphs talking about what I am going to do during my time off and low and behold isn’t it work related.  </p><p>So Doc, tell it to me straight, is it terminal?</p>
