@@ -1,0 +1,16 @@
+---
+ID: 171
+post_title: 'Video &#8211; TechEd Developers 2007 Keynote Entertainment'
+post_name: >
+  video-teched-developers-2007-keynote-entertainment
+author: David
+post_date: 2007-11-05 23:54:25
+layout: post
+link: >
+  https://blog.davidchristiansen.com/2007/11/video-teched-developers-2007-keynote-entertainment/
+published: true
+tags: [ ]
+categories:
+  - Development (General)
+---
+<p align="left">A short preview of the entertainment put on before the Keynote of <a title="echEd Developers - 05-09 November 2007, Barcelona, Spain" href="http://www.mseventseurope.com/TechEd/Developers/" target="_blank">TechEd</a> Developers 2007 Barcelona which saw a VJ entertaining us all to a thumping dance mix and video show whilst two <strong>very</strong> talented graffiti artists did their wares on four canvases.</p>  <div align="left"> </div>  <div align="left"> </div>  <div align="center">   <div class="wlWriterSmartContent" id="scid:5737277B-5D6D-4f48-ABFC-DD9C333F4C5D:e718e783-df5b-4903-9129-e01172b74bea" style="padding-right: 0px; display: inline; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px"><div id="e1a56ff5-609d-4625-875d-ed1911d218e3" style="margin: 0px; padding: 0px; display: inline;"><div><a href="http://soapbox.msn.com/video.aspx?vid=c14ae6a0-919a-4895-a9f6-469e8d5d5e95&amp;from=writer" target="_new"><img src="http://davidchristiansenblog.azurewebsites.net/wp-content/uploads/2012/10/roy_thumb-jpg.jpg" galleryimg="no" onload="var downlevelDiv = document.getElementById('e1a56ff5-609d-4625-875d-ed1911d218e3'); downlevelDiv.innerHTML = &quot;&lt;div&gt;&lt;embed src=\&quot;http://images.soapbox.msn.com/flash/soapbox1_1.swf\&quot; quality=\&quot;high\&quot; width=\&quot;432\&quot; height=\&quot;364\&quot; wmode=\&quot;transparent\&quot; type=\&quot;application/x-shockwave-flash\&quot; pluginspage=\&quot;http://macromedia.com/go/getflashplayer\&quot; flashvars=\&quot;c=v&amp;v=c14ae6a0-919a-4895-a9f6-469e8d5d5e95&amp;from=writer\&quot; &gt;&lt;\/embed&gt;&lt;\/div&gt;&quot;;" alt=""></a></div></div></div> </div>  <div align="left"> </div>  <div align="left">and here are some photos for good measure...</div>  <div align="left"> </div>  <div align="center"><a title="05112007049" href="http://www.flickr.com/photos/78231872@N00/1879241979/"><img alt="05112007049" src="http://static.flickr.com/2299/1879241979_da38b20d1c_t.jpg" border="0"></a> <a title="05112007048" href="http://www.flickr.com/photos/78231872@N00/1879241105/"><img alt="05112007048" src="http://static.flickr.com/2418/1879241105_840a13faaa_t.jpg" border="0"></a> <a title="05112007047" href="http://www.flickr.com/photos/78231872@N00/1880060020/"><img alt="05112007047" src="http://static.flickr.com/2239/1880060020_60bae0a0c9_t.jpg" border="0"></a> <a title="05112007046" href="http://www.flickr.com/photos/78231872@N00/1879239493/"><img alt="05112007046" src="http://static.flickr.com/2338/1879239493_c9c0a0233f_t.jpg" border="0"></a> <a title="05112007044" href="http://www.flickr.com/photos/78231872@N00/1879238565/"><img alt="05112007044" src="http://static.flickr.com/2157/1879238565_a6fa8ba290_t.jpg" border="0"></a></div>
